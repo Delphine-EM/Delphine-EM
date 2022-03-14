@@ -1,10 +1,13 @@
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+<br/>
 
-# Hello :sun_with_face: I'm Delphine #
+<h1 align="center">Hello :sun_with_face:, I'm Delphine</h1>
 
-I am a French junior web developer currently in a work-study program at the **awesome [O'Clock school](https://oclock.io/)** 
 
-This will be my second training at O'clock, in 2021 I followed a fullstack JS training with a React specialization ( promo #Valhalla !)
+### I am a French junior web developer currently in a work-study program at the **Awesome [O'Clock School](https://oclock.io/)** ###
+
+### This will be my second training at O'clock, in 2021 I followed a fullstack JS training with a React specialization ( promo #Valhalla !) ### 
+<br/>
 
 ## What I already know / will improve : ##
 <br/>
@@ -25,9 +28,9 @@ This will be my second training at O'clock, in 2021 I followed a fullstack JS tr
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![react-native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+and more ...
+
 <br/>
 
-## Random Jokes Generator ## 
-<br/>
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
+### :seedling: I am currently improving my skills on React and also on the refinement of this page !  ###
